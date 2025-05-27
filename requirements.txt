@@ -1,5 +1,4 @@
 keras
-matplotlib
 numpy
 pandas
 streamlit
